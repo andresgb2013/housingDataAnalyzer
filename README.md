@@ -11,7 +11,7 @@ Now, with all these evaluations, we have to choose an optimal model to reach thi
 
 The construction of the GUI will also be evaluated, after ensuring operation through console input, the objective itself is that given certain relevant data, the final price of a home with these characteristics can be estimated, taking into account many economic and social factors.
 
-The file shared in this first assignment is a draft project of the desired model, I did it in a course in the past and it seemed relevant to the use of this course
+The file shared in this first assignment is a draft project of the desired model, I did it in a course in the past and it seemed relevant to the use of this course, Unfortunately , the project is currently only available in Spanish. However, as I return to the project's core logic, I will provide a step-by-step translation and a new approach in the project documentation.
 
 By the end, the real purpose of this exercise is to practice with different REs and get used to them, all the documentation and management are the keys to effectiveness  
 
