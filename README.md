@@ -15,7 +15,7 @@ The file shared in this first assignment is a draft project of the desired model
 
 By the end, the real purpose of this exercise is to practice with different REs and get used to them, all the documentation and management are the keys to effectiveness  
 
-Here is a basic UML to understand how the workflow works https://lucid.app/lucidchart/0bb2b413-a3b8-42bc-9fb5-9a581cc820cc/edit?viewport_loc=-2098%2C-948%2C2942%2C1381%2C0_0&invitationId=inv_d09cc95e-f489-4add-8411-424b8a896b72
+Here is a basic UML to understand how the workflow works https://lucid.app/lucidchart/39347650-f0f9-48fa-94b5-f08380bed57a/edit?viewport_loc=-338%2C112%2C2507%2C1177%2CHWEp-vi-RSFO&invitationId=inv_d5f3356b-be25-41ef-83c5-51cba300663a
 
 This repository will contain the source code, datasets, and documentation for this project.
 
