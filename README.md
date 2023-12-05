@@ -23,4 +23,4 @@ Something necessary is the description of our project for audiences beyond the d
 - Delve into the technical intricacies of our development with Jira, offering advanced workflows and detailed issue tracking. [Jira Project Link](https://andresgb2013.atlassian.net/jira/software/projects/HA/boards/1/timeline?shared=&atlOrigin=eyJpIjoiZDRkMjUyZDAyMDY3NDYyNDk3ZjE1OTJiZTg3ZWNlNmUiLCJwIjoiaiJ9)
 
 
-An analysis, similar to the one implemented in class, is presented below, giving extra context to the needs of different types in the project, such as technological, economic and marketing needs. [CLASSICAL ANALYSIS] (https://docs.google.com/document/d/1TjW7eMHre7fcakGfLMzoMjL1hSiVWo1WmyscYrP-4xI/edit?usp=sharing)
+An analysis, similar to the one implemented in class, is presented below, giving extra context to the needs of different types in the project, such as technological, economic and marketing needs. [CLASSICAL ANALYSIS](https://docs.google.com/document/d/1TjW7eMHre7fcakGfLMzoMjL1hSiVWo1WmyscYrP-4xI/edit?usp=sharing)
