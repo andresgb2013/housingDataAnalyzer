@@ -15,6 +15,12 @@ The file shared in this first assignment is a draft project of the desired model
 
 By the end, the real purpose of this exercise is to practice with different REs and get used to them, all the documentation and management are the keys to effectiveness  
 
+Here is a basic UML to understand how the workflow works https://lucid.app/lucidchart/39347650-f0f9-48fa-94b5-f08380bed57a/edit?viewport_loc=-338%2C112%2C2507%2C1177%2CHWEp-vi-RSFO&invitationId=inv_d5f3356b-be25-41ef-83c5-51cba300663a
 
-This repository will contain the source code, datasets, and documentation for this project.
+Something necessary is the description of our project for audiences beyond the developers, thus also a project management system, where a schedule, work flow and engineering requirements can be clearly expressed and interconnected to an entire team. So we will do a short introduction to basic versions of this on two very well-known platforms for this type of projects.
 
+- Explore our project management on Trello, a user-friendly platform that simplifies collaboration and organization. [Trello Project Link](https://trello.com/invite/b/lj3MiO0B/ATTI948f21fe228e13e96dd77e326c257a457C4328C8/housing-analyzer)
+- Delve into the technical intricacies of our development with Jira, offering advanced workflows and detailed issue tracking. [Jira Project Link](https://andresgb2013.atlassian.net/jira/software/projects/HA/boards/1/timeline?shared=&atlOrigin=eyJpIjoiZDRkMjUyZDAyMDY3NDYyNDk3ZjE1OTJiZTg3ZWNlNmUiLCJwIjoiaiJ9)
+
+
+An analysis, similar to the one implemented in class, is presented below, giving extra context to the needs of different types in the project, such as technological, economic and marketing needs. [CLASSICAL ANALYSIS](https://docs.google.com/document/d/1TjW7eMHre7fcakGfLMzoMjL1hSiVWo1WmyscYrP-4xI/edit?usp=sharing)
